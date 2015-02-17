@@ -67,17 +67,18 @@ The Council maintains a large number of social media accounts (Twitter and Faceb
 
 #### A civic dashboard for Edinburgh
 
-A civic data dashboard is a way of aggregating data about an adminstrative area and presenting it in a useful, engaging and informative manner for residents. Can we build one for Edinburgh? 
+A civic data dashboard is a way of aggregating data about an adminstrative area and presenting it in a useful, engaging and informative manner for residents. Can we build one for Edinburgh? And what do citizens really want to see?
 
 **Key Datasets**: 
 
-* <http://data.inf.ed.ac.uk/dataset/city-of-edinburgh-council-social-media-accounts>, [Edinburgh by Numbers](http://www.edinburgh.gov.uk/info/20205/performance_and_statistics/1012/edinburgh_by_numbers)
+* <http://data.inf.ed.ac.uk/dataset/city-of-edinburgh-council-social-media-accounts>
+* [Edinburgh by Numbers](http://www.edinburgh.gov.uk/info/20205/performance_and_statistics/1012/edinburgh_by_numbers)
 *  List of Memories (No authentication or limits set on the API)
-  * Just data - http://edinburgh-collected.herokuapp.com/memories.json
-  * With geo - http://edinburgh-collected.herokuapp.com/memories.geojson
+    * Just data - http://edinburgh-collected.herokuapp.com/memories.json
+    * With geo - http://edinburgh-collected.herokuapp.com/memories.geojson
 * Data for an individual memory
-  * Just data - http://edinburgh-collected.herokuapp.com/memories/:id.json
-  * With geo - http://edinburgh-collected.herokuapp.com/memories/:id.geojson (where :id is the id of the memory, i.e. http://edinburgh-collected.herokuapp.com/memories/1.json)
+    * Just data - http://edinburgh-collected.herokuapp.com/memories/:id.json
+    * With geo - http://edinburgh-collected.herokuapp.com/memories/:id.geojson (where :id is the id of the memory, i.e. http://edinburgh-collected.herokuapp.com/memories/1.json)
 
 
 **Contacts**: 
