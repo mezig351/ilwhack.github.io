@@ -132,7 +132,7 @@ There are currently projects running within IS to look at potential displays of 
 There are many innovations in 'pro-poor' technology in developing countries, covering topics like energy, waste, transport and information communication technology. Can we use data from social media and news media to build a picture of such innovations in and around Nairobi, Kenya? And how can we present this data in an informative and scalable manner?
 
 
-**Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
+**Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources. We have [some starting points](https://github.com/ewan-klein/ilwhack/blob/master/nairobi_tech.md).
 
 **Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey (Jonathan.Casey[AT]practicalaction.org.uk, @JonnyPCasey)
 
