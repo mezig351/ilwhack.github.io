@@ -170,10 +170,10 @@ The underlying theme is to try and extract value from data and in particular lev
 * Visualise the Topics
   * Your task is to write a computer program that visualizes the topics and named entities in a corpus of news in original ways. Select interesting ways to visualize ahead of any programming. Use paper & pen drawings to create a vision and then choose the right tool to realize that vision (e.g. D3, Processing) to visualize topics, people, organizations and/or temporal trends in the data. Visualization is valuable because they are powerful tools to start a conversation about what is contained in a data set. This opens up research questions like: How could the visualization be turned into an animated film?
 * Finding Links
-  * Your task is to write a computer program that tags the name of people mentioned in the news, and find how they are related with each other (e.g. "spouse of", "business partner of"). The resulting information can be output as "triples" (NAME1 RELATION NAME2), which forms the basis of knowledge graphs such as YAGO or Freebase, built with the ultimate goal of building a ”Semantic Web”.This opens up research questions like: Who can the results be visualized and queried?
+  * Your task is to write a computer program that tags the name of people mentioned in the news, and find how they are related with each other (e.g. "spouse of", "business partner of"). The resulting information can be output as "triples" (NAME1 RELATION NAME2), which forms the basis of knowledge graphs such as YAGO or Freebase, built with the ultimate goal of building a ”Semantic Web”. This opens up research questions like: Who can the results be visualized and queried?
 
 
-**Key Datasets**: 
+**Key Datasets**: http://data.inf.ed.ac.uk/dataset/trc
 
 **Technical Contact**: Chris Blatchford (chris.blatchford[AT]thomsonreuters.com)
 
