@@ -22,13 +22,13 @@ You don’t need to score points in all of these, but the more you do the better
 
 ## Themes
 
-Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. This year's themes are (subject to revision):
+Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. This year's themes are:
 
-* Communities, civic engagement, and international development <!-- SG, CEC, Practical Action-->
-* Making sense of news and social media <!-- Bloomberg, Thomson-Reuters, CEC-->
-* Travel and adventure <!-- Skyscanner-->
-* Data visualisation <!-- Bloomberg-->
-* Student experience <!-- IS -->
+* Communities and civic engagement
+* International development
+* Travel and adventure
+* Data visualisation
+* Student experience
 
 ## Special Prizes
 
@@ -36,9 +36,12 @@ Use of the particular themes will be taken into account by the people judging yo
 
 This is a challenge to produce the best (or silliest) thing you can by mashing together multiple different sources of data.
 
-### Hoppers 'Most Helpful' Prize
+### Hopper's Helpful Hacker Prize: Kindle
 
-Nominate a person who was most helpful in assisting others in resolving issues!
+Is there a person who went out of there way to help you and your team during the Smart Data Hack? Was there a person who showed you something new, or took time to explain how something works? Nominate them for the Hopper's Helpful Hacker prize.
+
+Please drop an email to ilw-hack[AT]inf.ed.ac.uk with the subject line "most helpful hacker" and your nomination in the body.
+
 
 ## Sponsored challenges
 
